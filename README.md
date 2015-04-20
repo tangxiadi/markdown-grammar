@@ -1,5 +1,5 @@
 针对中文,演示Markdown的基础语法
-  
+
 大标题1
 ===================================
   大标题一般显示工程名,类似html的\<h1\><br />
@@ -45,7 +45,8 @@
 ### 只是显示图片
 ![github](https://avatars0.githubusercontent.com/u/9555093 "我的GitHub头像")
 
-### 想点击某个图片进入一个网页,比如我想点击GitHub的Icon然后再进入GitHub首页
+### 点击某个图片进入一个网页
+  比如我想点击GitHub的Icon然后再进入GitHub首页
 [![image](https://avatars2.githubusercontent.com/u/9919 "GitHub")](http://www.github.com/)
 
 ### 文字被些字符包围
