@@ -46,19 +46,16 @@
 
 ### 链接
 1.[点击这里你可以链接到Google](http://www.google.com)<br />
-2.[点击这里我你可以链接到我的GitHub](https://github.com/tangxiadi)
-
+2.[点击这里我你可以链接到我的GitHub](https://github.com/tangxiadi)<br />
 链接插入的格式是：\[链接的显示文字\]\(链接的 URL\)
 
 ### 图片
-![github](https://avatars0.githubusercontent.com/u/9555093?v=3&s=256 "我的GitHub头像")
-
+![github](https://avatars0.githubusercontent.com/u/9555093?v=3&s=256 "我的GitHub头像")<br />
 图片插入的格式是：\[图像的替代文本\]\(显示图像的 URL \"图片的说明文字\"\)
 
 ### 图片链接
   比如我想点击GitHub的图片，然后再进入GitHub首页<br />
-[![image](https://github.com/images/modules/dashboard/bootcamp/octocat_setup.png "GitHub")](http://www.github.com/)
-
+[![image](https://github.com/images/modules/dashboard/bootcamp/octocat_setup.png "GitHub")](http://www.github.com/)<br />
 图片链接插入的格式是：\[\[图像的替代文本\]\(显示图像的 URL \"图片的说明文字\"\)\]\(链接的 URL\)
 
 ### 引用
