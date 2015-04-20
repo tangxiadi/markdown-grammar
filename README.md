@@ -42,12 +42,11 @@
 1.[点击这里你可以链接到Google](http://www.google.com)<br />
 2.[点击这里我你可以链接到我的GitHub](https://github.com/tangxiadi)<br />
 
-###只是显示图片
+### 只是显示图片
 ![github](https://avatars0.githubusercontent.com/u/9555093 "我的GitHub头像")
 
-###想点击某个图片进入一个网页,比如我想点击GitHub的Icon然后再进入GitHub首页
-[![image]](http://www.github.com/)
-[image]: http://github.com/github.png "GitHub"
+### 想点击某个图片进入一个网页,比如我想点击GitHub的Icon然后再进入GitHub首页
+[![image](https://avatars2.githubusercontent.com/u/9919 "GitHub")](http://www.github.com/)
 
 ### 文字被些字符包围
 > 文字被些字符包围
