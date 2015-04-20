@@ -43,7 +43,7 @@
 2.[点击这里我你可以链接到我的GitHub](https://github.com/tangxiadi)<br />
 
 ### 只是显示图片
-![github](https://avatars0.githubusercontent.com/u/9555093 "我的GitHub头像")
+![github](https://avatars0.githubusercontent.com/u/9555093?v=3&s=256 "我的GitHub头像")
 
 ### 点击某个图片进入一个网页
   比如我想点击GitHub的Icon然后再进入GitHub首页
