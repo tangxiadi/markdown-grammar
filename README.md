@@ -48,7 +48,7 @@
 ### 点击某个图片进入一个网页
   比如我想点击GitHub的Icon然后再进入GitHub首页
 
-[![image](https://avatars2.githubusercontent.com/u/9919 "GitHub")](http://www.github.com/)
+[![image](https://github.com/images/modules/dashboard/bootcamp/octocat_setup.png "GitHub")](http://www.github.com/)
 
 ### 文字被些字符包围
 > 文字被些字符包围
