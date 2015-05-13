@@ -56,7 +56,7 @@
 ### 图片链接
   比如我想点击GitHub的图片，然后再进入GitHub首页<br />
 [![image](https://github.com/images/modules/dashboard/bootcamp/octocat_setup.png "GitHub")](http://www.github.com/)<br />
-图片链接插入的格式是：\[\[图像的替代文本\]\(显示图像的 URL \"图片的说明文字\"\)\]\(链接的 URL\)
+图片链接插入的格式是：\[\[图像的替代文本\]\(显示图像的 URL "图片的说明文字"\)\]\(链接的 URL\)
 
 ### 引用
 > 段落前面用竖线来框定要引用的文字<br />
