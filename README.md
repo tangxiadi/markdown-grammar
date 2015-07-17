@@ -51,12 +51,12 @@
 
 ### 图片
 ![github](https://avatars0.githubusercontent.com/u/9555093?v=3&s=256 "我的GitHub头像")<br />
-图片插入的格式是：\[图像替代文本\]\(图片URL "图片说明文字"\)
+图片插入的格式是：\!\[图像替代文本\]\(图片URL "图片说明文字"\)
 
 ### 图片链接
   比如我想点击GitHub的图片，然后再进入GitHub首页<br />
 [![image](https://github.com/images/modules/dashboard/bootcamp/octocat_setup.png "GitHub")](http://www.github.com/)<br />
-图片链接插入的格式是：\[\[图像替代文本\]\(图片URL "图片说明文字"\)\]\(链接URL\)
+图片链接插入的格式是：\!\[\[图像替代文本\]\(图片URL "图片说明文字"\)\]\(链接URL\)
 
 ### 引用
 > 段落前面用竖线来框定要引用的文字<br />
